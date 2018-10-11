@@ -1,0 +1,15 @@
+.idea/
+*.iws
+*.ipr
+*.iml
+.vscode/
+cmake-build-*/
+out/
+.idea_modules/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out

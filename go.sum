@@ -1,0 +1,4 @@
+github.com/fiorix/go-smpp v0.0.0-20180828123229-7c7a06fbbfb1 h1:RBIuM87sqyfpghVWPRdVlyamXNTO+RuvfR6AC+zBL+M=
+github.com/fiorix/go-smpp v0.0.0-20180828123229-7c7a06fbbfb1/go.mod h1:YXuspS5bGC2KqANvTbMlGpE+Vdd/nPoriK0pA4k3C4k=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
